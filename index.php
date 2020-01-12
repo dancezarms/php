@@ -1,7 +1,9 @@
 <?php
 
-echo "Olá mundo!";
+echo "Olá mundo da programação!";
 
-echo "Olá Hcode!"
+echo "Olá Udemy!";
+
+echo "alteração realizada localmente";
 
 ?>
